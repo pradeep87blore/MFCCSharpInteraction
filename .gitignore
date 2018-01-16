@@ -1,0 +1,10 @@
+Debug
+Release
+ipch
+*.exe
+*.db
+*.opendb
+*.pch
+*.ipch
+*.pdb
+*.idb
